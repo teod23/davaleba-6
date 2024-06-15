@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-family: arial, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    color: #0066cc;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    color: #333;
+    font-family: arial, sans-serif;
+}
+
+.generalinfo {
+    color: #0066cc;
+    font-family: arial, sans-serif;
+    font-weight: 700;
+}
+
+.information {
+    color: #555;
+    font-family: arial, sans-serif;
+}
+
+.date {
+   color: #cc3300; 
+   font-family: arial, sans-serif;
+   font-style: italic;
+
+
+
+}
